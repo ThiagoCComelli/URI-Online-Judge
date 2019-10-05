@@ -9,9 +9,10 @@ using namespace std;
 int main()
 {
     int aux,n,t;
-    vector<int>lista;
 
     while (true){
+        vector<int>lista;
+
         t = 0;
         cin >> n;
         if (n==0){
