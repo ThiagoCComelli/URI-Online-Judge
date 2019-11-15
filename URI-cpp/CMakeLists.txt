@@ -3,4 +3,4 @@ project(URI-Online-Judge)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled 1160.cpp)
+add_executable(untitled 1171.cpp)

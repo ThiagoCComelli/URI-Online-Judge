@@ -1,12 +1,17 @@
 #include <iostream>
+<<<<<<< Updated upstream
 #include <iomanip>
 #include <vector>
 #include <algorithm>
+=======
+#include <math.h>
+>>>>>>> Stashed changes
 
 using namespace std;
 
 int main()
 {
+<<<<<<< Updated upstream
     double x,a,b,c;
     bool vai = true;
     vector<double>lista;
@@ -41,5 +46,23 @@ int main()
             cout << "TRIANGULO ISOSCELES" << endl;
         }
     }
+=======
+    double a,b,c;
+    bool Ca = true;
+
+    cin >> a >> b >> c;
+
+    if(a >= b+c){
+        cout << "NAO FORMA TRIANGULO" << endl;
+        C = false;
+    }
+    if(a*a==(b*b+c*c)) && Ca){
+        cout << "TRIANGULO RETANGULO" << endl;
+    }
+
+
+
+
+>>>>>>> Stashed changes
     return 0;
 }
