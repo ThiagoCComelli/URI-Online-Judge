@@ -1,0 +1,11 @@
+F:\Projetos C#\Uri\bin\Debug\netcoreapp3.1\Uri.exe
+F:\Projetos C#\Uri\bin\Debug\netcoreapp3.1\Uri.deps.json
+F:\Projetos C#\Uri\bin\Debug\netcoreapp3.1\Uri.runtimeconfig.json
+F:\Projetos C#\Uri\bin\Debug\netcoreapp3.1\Uri.runtimeconfig.dev.json
+F:\Projetos C#\Uri\bin\Debug\netcoreapp3.1\Uri.dll
+F:\Projetos C#\Uri\bin\Debug\netcoreapp3.1\Uri.pdb
+F:\Projetos C#\Uri\obj\Debug\netcoreapp3.1\Uri.csprojAssemblyReference.cache
+F:\Projetos C#\Uri\obj\Debug\netcoreapp3.1\Uri.AssemblyInfoInputs.cache
+F:\Projetos C#\Uri\obj\Debug\netcoreapp3.1\Uri.AssemblyInfo.cs
+F:\Projetos C#\Uri\obj\Debug\netcoreapp3.1\Uri.dll
+F:\Projetos C#\Uri\obj\Debug\netcoreapp3.1\Uri.pdb

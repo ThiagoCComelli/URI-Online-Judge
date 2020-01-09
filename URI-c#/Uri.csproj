@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="1001.cs" />
+    <Compile Remove="1002.cs" />
+    <Compile Remove="1003.cs" />
+    <Compile Remove="1004.cs" />
+    <Compile Remove="1005.cs" />
+    <Compile Remove="1006.cs" />
+    <Compile Remove="1007.cs" />
+    <Compile Remove="1008.cs" />
+    <Compile Remove="1009.cs" />
+    <Compile Remove="1010.cs" />
+    <Compile Remove="1011.cs" />
+    <Compile Remove="1012.cs" />
+    <Compile Remove="1019.cs" />
+    <Compile Remove="1020.cs" />
+    <Compile Remove="asd.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="Uri1001.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1002.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1001.cs" />
+    <None Include="1003.cs" />
+    <None Include="1004.cs" />
+    <None Include="1005.cs" />
+    <None Include="1006.cs" />
+    <None Include="1007.cs" />
+    <None Include="1008.cs" />
+    <None Include="1009.cs" />
+    <None Include="1010.cs" />
+    <None Include="1011.cs" />
+    <None Include="1012.cs" />
+    <None Include="1019.cs" />
+    <None Include="1020.cs" />
+  </ItemGroup>
+
+</Project>
