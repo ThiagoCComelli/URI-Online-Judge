@@ -2,7 +2,10 @@
 
  int main(){
  	int a,b;
+
  	scanf("%d\n%d",&a,&b);
- 	printf("X = %d\n",a+b);
+
+ 	printf("SOMA = %d",a+b);
+
  	return 0;
  }
